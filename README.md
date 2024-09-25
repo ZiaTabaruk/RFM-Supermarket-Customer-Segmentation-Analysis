@@ -107,4 +107,4 @@ With the right strategy for each segment, companies can be more effective in man
 
 ## Dashboard Tableau
 
-[RFM Supermarket Analysis Dashboard](https://lookerstudio.google.com/u/0/reporting/1196afe5-79a0-49f3-aed1-78ad9f7f04f2/page/fnj7D) untuk visualisasi menggunakan Tableau
+[RFM Supermarket Analysis Dashboard](https://public.tableau.com/app/profile/zia.tabaruk/viz/RFMSupermarketAnalysis/StoryRFMSupermarketAnalysis) untuk visualisasi menggunakan Tableau
