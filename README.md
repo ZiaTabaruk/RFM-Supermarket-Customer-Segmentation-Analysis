@@ -3,106 +3,105 @@
 ![image](https://github.com/user-attachments/assets/dc0c18ec-17ba-4a20-bb28-cda8cc44ccf3)
 
 
-## Background
+## **Latar Belakang**
+Analisis RFM (Recency, Frequency, Monetary) adalah teknik segmentasi pelanggan yang digunakan dalam pemasaran untuk mengevaluasi dan memahami perilaku pelanggan.
 
-RFM (Recency, Frequency, Monetary) analysis is a `customer segmentation technique` used in marketing to evaluate and understand customer behavior.
+Kumpulan data mencakup data penjualan barang konsumen yang diperoleh dengan 'memindai' kode batang untuk setiap produk di tempat penjualan elektronik di toko ritel.
 
-The `dataset` include data on sales of consumer goods obtained by ‘scanning’ the bar codes for individual products at electronic points of sale in a retail store. 
+Data tersebut memberikan `informasi terperinci` tentang jumlah, karakteristik, dan nilai barang yang dijual serta harganya.
 
-The data provide `detailed information` about quantities, characteristics and values of goods sold as well as their prices.
-
-The anonymized dataset includes `64.682 transactions` of 5.242 SKU's sold to 22.625 customers during one year.
-
-
-## Stakeholders
-
-- Marketing Team: Responsible for designing and `implementing marketing strategies` based on RFM analysis results.
+Kumpulan data yang dianonimkan ini mencakup `64.682 transaksi` dari 5.242 SKU yang dijual kepada 22.625 pelanggan selama satu tahun.
 
 
-## Problem Statement
+## **Pemangku Kepentingan**
 
-- How can the supermarket use RFM analysis to `segment customers` based on purchasing behavior and optimize promotions to improve customer retention and engagement?
+- **Tim Pemasaran:** Bertanggung jawab untuk merancang dan `mengimplementasikan strategi pemasaran` berdasarkan hasil analisis RFM.
+
+
+## **Rumusan Masalah**
+
+- Bagaimana supermarket dapat menggunakan analisis RFM untuk `menyegmentasikan pelanggan` berdasarkan perilaku pembelian dan mengoptimalkan promosi untuk meningkatkan retensi dan keterlibatan pelanggan?
   
 
-## Goals
+## **Tujuan**
 
-- By implementing RFM analysis, companies can `classify customers based on their value`, develop targeted marketing strategies for each segment to increase customer retention and maximize profits.
-  
+- Dengan menerapkan analisis RFM, perusahaan dapat `mengklasifikasikan pelanggan berdasarkan nilainya`, mengembangkan strategi pemasaran yang ditargetkan untuk setiap segmen untuk meningkatkan retensi pelanggan dan memaksimalkan keuntungan.
+
 
 ## Insight 
 
-Customer Segmentation uses a combination of RFM (Recency, Frequency, Monetary) scores to group customers into 10 categories.
+### **`Customer Segmentation`** menggunakan kombinasi skor RFM (Recency, Frequency, Monetary) untuk mengelompokkan pelanggan ke dalam 10 kategori.
 
-`Champion:` Customers who have recently made a purchase, transact very often, and have a large monetary contribution. They are the most valuable customers.
+> `Champion:` Pelanggan yang baru saja melakukan pembelian, sering bertransaksi, dan memiliki kontribusi moneter yang besar. Mereka adalah pelanggan paling berharga.
 
- `Loyal Customer:` Customers who shop frequently and have a stable contribution, although their transactions are not always new.
+> `Loyal Customer:` Pelanggan yang sering berbelanja dan memiliki kontribusi yang stabil, meskipun transaksinya tidak selalu baru.
 
-`Potential Loyalists:` Customers who have just started shopping frequently and have the potential to become loyal if well-retained.
+> `Potential Loyalists:` Pelanggan yang baru mulai sering berbelanja dan berpotensi menjadi loyal jika dikelola dengan baik.
 
-`New Customers:` New customers who have just made their first purchase.
+> `New Customers:` Pelanggan baru yang baru saja melakukan pembelian pertama mereka.
 
-`Promising:` Customers who have just started transacting but are not regular, can become loyal if given encouragement.
+> `Promising:` Pelanggan yang baru mulai bertransaksi tetapi belum rutin, bisa menjadi loyal jika diberi dorongan yang tepat.
 
-`Need Attention:` Customers who may have been active but are starting to lose their frequency and need attention to get them back.
+> `Need Attention:` Pelanggan yang mungkin pernah aktif, tetapi mulai kehilangan frekuensinya dan membutuhkan perhatian agar bisa kembali aktif.
 
-`About to Sleep:` Customers who are barely active and are on the verge of ceasing to transact.
+> `About to Sleep:` Pelanggan yang hampir tidak aktif dan berada di ambang berhenti bertransaksi.
 
-`At Risk:` Customers who were once active but are now rarely transacting, they are at risk of leaving the brand.
+> `At Risk:` Pelanggan yang dulunya aktif tetapi sekarang jarang bertransaksi, mereka berisiko meninggalkan brand.
 
-`Hibernating:` Customers who are rarely transacting and have little to no activity.
+> `Hibernating:` Pelanggan yang jarang bertransaksi dan hampir tidak ada aktivitas.
 
-`Lost:` Customers who have not transacted in a long time, indicating that they may have left the brand.
+> `Lost:`  Pelanggan yang sudah lama tidak bertransaksi, menunjukkan bahwa mereka mungkin sudah meninggalkan brand.
 
 
-## Conclusion & Recommendation
+## **Kesimpulan & Rekomendasi**
 
-### Conclusion
+### **`Kesimpulan`**
 
-This segmentation provides a very clear view of customer behavior based on their engagement with the brand. From the most loyal customers to those who have left the brand, this code allows companies to understand the condition and status of each customer. With this information, companies can tailor their marketing and retention approaches based on each segment, from retaining their best customers to reviving customers who are close to being lost.
+> Segmentasi ini memberikan pandangan yang sangat jelas tentang perilaku pelanggan berdasarkan keterlibatan mereka dengan brand. Dari pelanggan yang paling loyal hingga yang sudah meninggalkan brand, segmentasi ini memungkinkan perusahaan untuk memahami kondisi dan status setiap pelanggan. Dengan informasi ini, perusahaan dapat menyesuaikan pendekatan pemasaran dan retensi berdasarkan setiap segmen, mulai dari mempertahankan pelanggan terbaik mereka hingga menghidupkan kembali pelanggan yang hampir hilang.
 
-### Recommendation
+### **`Rekomendasi`**
 
-`Champion:` These are the best customers to retain. 
+> `Champion:` Ini adalah pelanggan terbaik yang harus dipertahankan.
 
-- Recommendation: Provide exclusive services, premium rewards, loyalty programs, or special invitations to brand events.
+- Rekomendasi: Berikan layanan eksklusif, hadiah premium, program loyalitas, atau undangan khusus ke acara brand.
 
-`Loyal Customer:` They are stable customers. 
+> `Loyal Customer:` Mereka adalah pelanggan yang stabil.
 
-- Recommendation: Provide them with additional benefits such as regular discounts, early access to new products, or long-term loyalty programs.
+- Rekomendasi: Berikan manfaat tambahan seperti diskon reguler, akses awal ke produk baru, atau program loyalitas jangka panjang.
 
-`Potential Loyalists:` Customers who have the potential to become loyal customers. 
+> `Potential Loyalists:` Pelanggan yang berpotensi menjadi pelanggan loyal.
 
-- Recommendation: Provide attractive offers, discounts on their next purchase, or membership programs to strengthen their loyalty.
+- Rekomendasi: Berikan penawaran menarik, diskon pada pembelian berikutnya, atau program keanggotaan untuk memperkuat loyalitas mereka.
 
-`New Customers:` New customers need a good first experience. 
+> `New Customers:` Pelanggan baru membutuhkan pengalaman pertama yang baik.
 
-- Recommendation: Offer a warm welcome, special discount on their next purchase, or a referral program to bring them back.
+- Rekomendasi: Tawarkan sambutan hangat, diskon khusus pada pembelian berikutnya, atau program referensi untuk menarik mereka kembali.
 
-`Promising:` These customers are promising, but not yet fully engaged. 
+> `Promising:` Pelanggan ini menjanjikan, tetapi belum sepenuhnya terlibat.
 
-- Recommendation: Offer more personalized promotions, special offers, or encouragement for repeat purchases.
+- Rekomendasi: Tawarkan promosi yang lebih personal, penawaran khusus, atau dorongan untuk pembelian berulang.
 
-`Need Attention:` These customers need more attention to re-engage. 
+> `Need Attention:` Pelanggan ini membutuhkan lebih banyak perhatian untuk kembali terlibat.
 
-- Recommendation: Send email reminders, special offers, or limited-time discounts to entice them to shop again.
+- Rekomendasi: Kirim pengingat melalui email, penawaran khusus, atau diskon terbatas untuk menarik mereka kembali berbelanja.
 
-`About to Sleep:` These customers are on the verge of falling out of favor. 
+> `About to Sleep:` Pelanggan ini hampir tidak aktif dan berada di ambang ketidakaktifan.
 
-- Recommendation: Create a retention campaign with a “last minute” offer or aggressive promotion before they fall out of favor.
+- Rekomendasi: Buat kampanye retensi dengan penawaran “menit terakhir” atau promosi agresif sebelum mereka benar-benar tidak aktif.
 
-`At Risk:` Customers who are at risk of leaving the brand. 
+> `At Risk:` Pelanggan yang berisiko meninggalkan brand.
 
-- Recommendation: Re-engage with a compelling offer, such as a big discount or a loyalty program specifically for returning customers.
+- Rekomendasi: Terlibat kembali dengan penawaran menarik, seperti diskon besar atau program loyalitas khusus untuk pelanggan yang kembali.
 
-`Hibernating:` Customers who are very infrequent spenders. 
+> `Hibernating:` Pelanggan yang sangat jarang berbelanja.
 
-- Recommendation: Create a special "We Miss You" campaign, or offer a discounted product bundle to lure them back.
+- Rekomendasi: Buat kampanye "We Miss You" khusus, atau tawarkan paket produk diskon untuk menarik mereka kembali.
 
-`Lost:` Customers who have been lost for a long time and are unlikely to return. 
+> `Lost:` Pelanggan yang sudah lama hilang dan kemungkinan besar tidak akan kembali.
 
-- Recommendation: Reactivation campaigns with irresistible offers or special programs for returning customers after a long period of inactivity or simply let them go.
+- Rekomendasi: Lakukan kampanye reaktivasi dengan penawaran yang tidak bisa ditolak atau program khusus untuk pelanggan yang kembali setelah lama tidak aktif atau biarkan mereka pergi.
 
-With the right strategy for each segment, companies can be more effective in managing customers, increasing retention, and optimizing marketing spend to increase the lifetime value of each customer segment.
+Dengan strategi yang tepat untuk setiap segmen, perusahaan dapat lebih efektif dalam mengelola pelanggan, meningkatkan retensi, dan mengoptimalkan pengeluaran pemasaran untuk meningkatkan nilai seumur hidup dari setiap segmen pelanggan.
 
 
 ## Dashboard Tableau
