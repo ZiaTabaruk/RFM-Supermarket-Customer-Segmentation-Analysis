@@ -57,7 +57,9 @@ Kumpulan data yang dianonimkan ini mencakup `64.682 transaksi` dari 5.242 SKU ya
 
 ### **`Kesimpulan`**
 
-Segmentasi ini memberikan pandangan yang sangat jelas tentang perilaku pelanggan berdasarkan keterlibatan mereka dengan brand. Dari pelanggan yang paling loyal hingga yang sudah meninggalkan brand, segmentasi ini memungkinkan perusahaan untuk memahami kondisi dan status setiap pelanggan. Dengan informasi ini, perusahaan dapat menyesuaikan pendekatan pemasaran dan retensi berdasarkan setiap segmen, mulai dari mempertahankan pelanggan terbaik mereka hingga menghidupkan kembali pelanggan yang hampir hilang.
+Segmentasi ini memberikan pandangan yang sangat jelas tentang perilaku pelanggan berdasarkan keterlibatan mereka dengan merek. Dari pelanggan yang paling loyal hingga mereka yang telah meninggalkan merek, kode ini memungkinkan perusahaan untuk memahami kondisi dan status setiap pelanggan. Dengan informasi ini, perusahaan dapat menyesuaikan pendekatan pemasaran dan retensi mereka berdasarkan masing-masing segmen, dari mempertahankan pelanggan terbaik mereka hingga menghidupkan kembali pelanggan yang hampir hilang.
+
+Sebagai tambahan, pelanggan dengan frekuensi rendah seperti Promising, Need Attention dan About to Sleep juga harus ditangani. Tim pemasaran harus membuat kampanye yang membuat mereka kembali terlibat dan berbelanja di supermarket, seperti mengirimkan pengingat atau promosi agresif yang dapat mendorong mereka untuk berbelanja lebih banyak. Kesimpulannya, segmentasi ini memberikan pandangan yang sangat jelas tentang perilaku pelanggan berdasarkan keterlibatan mereka dengan merek. Dari pelanggan yang paling loyal hingga mereka yang telah meninggalkan merek, analisis ini memungkinkan perusahaan untuk memahami kondisi dan status setiap pelanggan.
 
 ### **`Rekomendasi`**
 
