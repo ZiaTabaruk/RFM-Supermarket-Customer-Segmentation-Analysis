@@ -106,4 +106,4 @@ Dengan strategi yang tepat untuk setiap segmen, perusahaan dapat lebih efektif d
 
 ## Dashboard Tableau
 
-[RFM Supermarket Analysis Dashboard](https://public.tableau.com/app/profile/zia.tabaruk/viz/RFMSupermarketAnalysis/StoryRFMSupermarketAnalysis) untuk visualisasi menggunakan Tableau
+[RFM Supermarket Analysis Dashboard](https://public.tableau.com/views/RFMSupermarketAnalysis/StoryRFMSupermarketAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) untuk visualisasi menggunakan Tableau
