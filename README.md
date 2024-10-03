@@ -1,6 +1,6 @@
 # RFM Supermarket Customer Segmentation Analysis
 
-![image](https://github.com/user-attachments/assets/dc0c18ec-17ba-4a20-bb28-cda8cc44ccf3)
+![{1EF4A67E-06D2-42C2-938B-579787FDEE06}](https://github.com/user-attachments/assets/381c4313-1376-4426-9453-33b68132ae0b)
 
 
 ## **Latar Belakang**
